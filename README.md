@@ -12,7 +12,7 @@ You can make a request to `GET https://swapi.dev/api/films/1/`.
 
 ## Feature 2: DOG CEO API
 
-Somewhere on your webpage, you should make a button with the words `Show me a dog!` and a `div` with an `id` of `dog-picture`. When the user clicks on the button, it will display a picture of a random dog inside your `#dog-picture` div. The dog picture should be exactly `300px` wide. Use the [DOG CEO API](https://dog.ceo/dog-api/documentation/). Read through the documentation to figure out what URL you will need to make your request to. If the user clicks the button again, the dog picture should change to another random dog picture. 
+Somewhere on your webpage, you should make a button with the words `Show me a dog!` and a `div` with an `id` of `dog-picture`. When the user clicks on the button, it will display a picture of a random dog inside your `#dog-picture` div. The dog picture should be exactly `300px` wide. Use the [DOG CEO API](https://dog.ceo/dog-api/documentation/). Read through the documentation to figure out what URL you will need to make your `fetch` request to. If the user clicks the button again, the dog picture should change to another random dog picture. 
 
 ![feature 2](./assets/feature2.gif)
 
