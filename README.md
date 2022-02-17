@@ -4,7 +4,7 @@
  
  ## Feature 1: Star Wars API.
  
-Somewhere on your webpage, you should make a button with the innertext of `Get Opening Crawl` and a `div` with an `id` of `star-wars`. When the user clicks on the button, it will add the opening crawl of one of the Star Wars movies to your `#star-wars` div. You will be using the [Star Wars API](https://swapi.dev/documentation). If the user clicks on the button again, even though the opening crawl is already displayed, then nothing about your webapge should change.
+Somewhere on your webpage, you should make a button with the words `Get Opening Crawl` and a `div` with an `id` of `star-wars`. When the user clicks on the button, it will add the opening crawl of one of the Star Wars movies to your `#star-wars` div. You will be using the [Star Wars API](https://swapi.dev/documentation). If the user clicks on the button again, even though the opening crawl is already displayed, then nothing about your webapge should change.
 
 You can make a request to `GET https://swapi.dev/api/films/1/`.
 
